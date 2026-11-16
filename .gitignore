@@ -1,0 +1,111 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.aab
+*.apk
+output-metadata.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+*.perfetto-trace
+profiling/tools/*.exe
+
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+local_scripts/
+app/libs/
+ffmpeg_decoder/
+app/release/
+app/debug/
+.vscode
+.kotlin
+docs/
+
+# mpv
+app/src/main/obj/
+app/src/main/libs/
+app/src/main/jnilibs
+app/src/main/jnilibs/
+scripts/mpv/deps/
+scripts/mpv/prefix/
+
+# Private local recovery, profiling, reference artwork and device/account diagnostics
+/profiling/
+/branding/
+/local.properties
+/.codex/
+/.agents/
+/.aws/
+/README*.md
+/LUNATV_BUILD.md
+/PERFORMANCE_NOTES.md
+/CONTRIBUTING.md
+/DEVELOPMENT.md
+/Intents.md
+/.github/
+*.p12
+*.pfx
+*.pem
+*.key
+*.env
+.env.*
+credentials*
+secrets*
+*.hprof
+*.heapdump
+*.dmp
+*.sqlite*
+*.db
+*.db-*
+**/hs_err_pid*
+**/replay_pid*
+
+
+# Never publish test secrets or generated output
+private/
+*.keystore
+*.jks
+*.dpapi
+*.apk
+mapping*.txt
+local.properties
+.gradle/
+**/build/

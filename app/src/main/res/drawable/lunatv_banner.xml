@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Compatibility resource name; all artwork comes from the current JellyLu banner. -->
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/jellylu_banner"
+    android:gravity="center" />

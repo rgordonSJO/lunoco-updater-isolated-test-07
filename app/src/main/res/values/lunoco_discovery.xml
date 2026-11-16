@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lunoco_all_movies">All Movies</string>
+    <string name="lunoco_explore">Explore</string>
+    <string name="lunoco_browse_studio">Browse by Studio</string>
+    <string name="lunoco_browse_genre">Browse by Genre</string>
+    <string name="lunoco_explore_loading">Finding movies in your library…</string>
+    <string name="lunoco_explore_empty">No movie categories are available in this library yet.</string>
+    <string name="lunoco_explore_unavailable">Explore is unavailable. Your movies are still available in All Movies.</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jellylu_spotlight">Spotlight</string>
+    <string name="jellylu_spotlight_details">Details</string>
+    <string name="jellylu_spotlight_loading">Finding movies in your library…</string>
+    <string name="jellylu_spotlight_previous">Previous Spotlight movie</string>
+    <string name="jellylu_spotlight_next">Next Spotlight movie</string>
+    <string name="jellylu_spotlight_page">Spotlight movie %1$d of %2$d: %3$s</string>
+    <string name="jellylu_spotlight_unavailable">This movie is not available right now.</string>
+    <string name="jellylu_home_minutes_left">%1$d min left</string>
+    <string name="jellylu_home_less_minute_left">&lt;1 min left</string>
+</resources>

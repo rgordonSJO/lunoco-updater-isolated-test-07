@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Compatibility resource name; keep the current JellyLu emblem proportionate. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/jellylu_background" />
+    <item android:drawable="@drawable/jellylu_emblem"
+        android:gravity="center" android:width="48dp" android:height="48dp" />
+</layer-list>

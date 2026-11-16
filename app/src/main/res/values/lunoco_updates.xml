@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lunoco_updates_checking">Checking for updates…</string>
+    <string name="lunoco_updates_title">Update Available</string>
+    <string name="lunoco_updates_body">A new version of Lunoco is available.</string>
+    <string name="lunoco_updates_version">Version: %1$s</string>
+    <string name="lunoco_updates_notes">What’s New</string>
+    <string name="lunoco_updates_now">Update Now</string>
+    <string name="lunoco_updates_later">Later</string>
+    <string name="lunoco_updates_downloading">Downloading update… %1$d%%</string>
+    <string name="lunoco_updates_cancel">Cancel</string>
+    <string name="lunoco_updates_current">Lunoco is up to date.</string>
+    <string name="lunoco_updates_failed">Couldn’t check for a compatible Lunoco update. Try again later.</string>
+    <string name="lunoco_updates_install_failed">The update could not be verified or opened. Try again later.</string>
+    <string name="lunoco_updates_permission">Allow Lunoco to install apps, then choose Update Now again.</string>
+    <string name="lunoco_updates_store">Updates for this installation are managed by Google Play.</string>
+    <string name="lunoco_updates_development">Development builds require a verified stable installation before using automatic updates.</string>
+</resources>

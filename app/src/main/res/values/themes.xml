@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.Wholphin" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:colorBackground">@color/jellylu_background</item>
+        <item name="android:windowBackground">@drawable/jellylu_launch_background</item>
+        <item name="android:colorPrimary">@color/jellylu_slate</item>
+        <item name="android:statusBarColor">@color/jellylu_background</item>
+        <item name="android:navigationBarColor">@color/jellylu_background</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="brand_name" translatable="false">Lunoco</string>
+    <string name="jellylu_settings_title" translatable="false">Lunoco · %1$s</string>
+    <string name="jellylu_version_summary" translatable="false">Lunoco · %1$s</string>
+    <string name="jellylu_attribution" translatable="false">Based on Wholphin. Made for Jellyfin.</string>
+    <color name="jellylu_background">#0D1117</color>
+    <color name="jellylu_ivory">#F1F0EC</color>
+    <color name="jellylu_slate">#A7B9CB</color>
+</resources>

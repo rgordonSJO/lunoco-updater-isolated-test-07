@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jellylu_shows">Shows</string>
+    <string name="jellylu_kids_movies">Kids Movies</string>
+    <string name="jellylu_kids_shows">Kids Shows</string>
+    <string name="jellylu_live_tv">Live TV</string>
+    <string name="jellylu_dvr">DVR</string>
+    <string name="jellylu_home_movies">Home Movies</string>
+    <string name="jellylu_libraries">Libraries</string>
+    <string name="jellylu_my_libraries">My Libraries</string>
+    <string name="jellylu_shuffle_all">Shuffle All</string>
+</resources>
